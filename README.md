@@ -6,7 +6,7 @@ Final project submission for the course on Scientific Computing. Prof. Philipp E
 I showed application of numerical methods for parameter estimation in an HIV spread model.   
 Implementation of gradient descent, numerical integration, and Newton-Raphson method to estimate transmission probability and seroconversion.   
 
-**Keywords:** mathematical modeling of infectious diseases; biostatistics; epidemiology; parameter estimation; numerical methods
+**Keywords:** mathematical modeling of infectious diseases; biostatistics; epidemiology; parameter estimation; numerical methods; maximum likelihood estimation
 
 ### [Viral dynamics in monkey and bat cell lines](https://morpheus.gitlab.io/model/m7677/)    
 Team project. Contributors:  C. Munegowda, M. Japakhova, S. Singhal, J. Bürger, C. E. Brook, L. Brusch. Supervisor: Dr. Lutz Brusch    
